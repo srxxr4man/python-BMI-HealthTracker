@@ -1,7 +1,7 @@
 # 🧮 Smart BMI Calculator (Python)
 
 <p align="center">
-  **A Simple Python-Based Health & BMI Calculator**
+  <b>A Simple Python-Based Health & BMI Calculator</b>
   <br>
   Calculate Body Mass Index, identify BMI categories, and receive basic health suggestions through a simple command-line application.
 </p>
